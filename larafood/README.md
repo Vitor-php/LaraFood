@@ -1,3 +1,8 @@
+<p align="center" width="1000">Projeto desenvolvido completamente em Laravel, neste projeto será desenvolvido um aplicativo que simula a experiencia do usuário no aplicativo famoso de delifery Ifood.</p>
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
