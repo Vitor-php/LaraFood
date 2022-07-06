@@ -7,5 +7,12 @@
 @stop
 
 @section('content')
-    <p>Lista de Planos</p>
+    <div class="card">
+        <div class="card-header">
+            #filtros    
+        </div>
+            <div class="card-body">
+                teste
+        </div>
+    </div>
 @stop
