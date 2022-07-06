@@ -2,17 +2,17 @@
 
 @section('title', 'Planos')
 
-@section('content-header')
-    <h1>Dashboard</h1>
+@section('content_header')
+    <h1>Planos</h1>
 @stop
 
 @section('content')
     <div class="card">
         <div class="card-header">
-            #filtros    
+            #filtros
         </div>
-            <div class="card-body">
-                teste
+        <div class="card-body">
+            foreach
         </div>
     </div>
 @stop
